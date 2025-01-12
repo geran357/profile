@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.f5febe08.css",
+    "main.js": "/profile/static/js/main.686dfb54.js",
+    "static/js/453.b34e65be.chunk.js": "/profile/static/js/453.b34e65be.chunk.js",
+    "static/media/nahida chan.mp4": "/profile/static/media/nahida chan.386e0cb73066d641ea27.mp4",
+    "static/media/arima kana.mp4": "/profile/static/media/arima kana.e432996f741f9aabb71e.mp4",
+    "static/media/what a perfect day for crying.mp4": "/profile/static/media/what a perfect day for crying.1c8e6725cd9b984da1d5.mp4",
+    "static/media/201560ae-0a68-43e6-8b65-fa19a90adc1a.png": "/profile/static/media/201560ae-0a68-43e6-8b65-fa19a90adc1a.8acf971438be4fb58c9a.png",
+    "static/media/arona gfx cc_00000.jpg": "/profile/static/media/arona gfx cc_00000.a1bdbaac5fe419c8fb04.jpg",
+    "static/media/gfx charlotte.png": "/profile/static/media/gfx charlotte.ae92aa38e6268c378177.png",
+    "static/media/azusa gfx.png": "/profile/static/media/azusa gfx.50e1b139b2a04902480d.png",
+    "static/media/SIGEWINNE gfx.png": "/profile/static/media/SIGEWINNE gfx.bde11a4e1724b412d1c6.png",
+    "static/media/Screenshot 2025-01-10 085714.png": "/profile/static/media/Screenshot 2025-01-10 085714.1d6867e8ebf15d1e9d82.png",
+    "static/media/Screenshot 2024-12-31 181727.png": "/profile/static/media/Screenshot 2024-12-31 181727.0a782cfba971a75369bf.png",
+    "static/media/Screenshot 2024-11-30 212202.png": "/profile/static/media/Screenshot 2024-11-30 212202.4fa701daea099e161e9b.png",
+    "index.html": "/profile/index.html",
+    "main.f5febe08.css.map": "/profile/static/css/main.f5febe08.css.map",
+    "main.686dfb54.js.map": "/profile/static/js/main.686dfb54.js.map",
+    "453.b34e65be.chunk.js.map": "/profile/static/js/453.b34e65be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5febe08.css",
+    "static/js/main.686dfb54.js"
+  ]
+}
