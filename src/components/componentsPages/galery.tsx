@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import banner from "../images/arona gfx cc_00000.jpg"; // Import banner
-import editing1 from "../images/Screenshot 2024-12-31 181727.png"; // Import image editing
-import editing2 from "../images/Screenshot 2025-01-10 085714.png"; // Import image editing
-import editing3 from "../images/Screenshot 2025-01-10 085835.png"; // Import image editing
+import gfx1 from "../images/SIGEWINNE gfx.png";
+import gfx2 from "../images/azusa gfx.png";
+import gfx3 from "../images/gfx charlotte.png";
 import amv1 from "../video/arima kana.mp4"; // Import video amv1
 import amv2 from "../video/nahida chan.mp4"; // Import video amv2
 import amv3 from "../video/what a perfect day for crying.mp4"; // Import video amv
@@ -42,10 +42,10 @@ const LandingPage: React.FC = () => {
       {/* Editing Section */}
       <section className="px-8 md:px-16 py-10">
         <h2 className="text-2xl font-bold text-purple-700 text-center mb-6">
-          Editing
+          gfx
         </h2>
         <div className="grid grid-cols-3 gap-4">
-          {[editing1, editing2, editing3].map((img, idx) => (
+          {[gfx1, gfx2, gfx3].map((img, idx) => (
             <div
               key={idx}
               className="h-55 flex items-center justify-center rounded-lg shadow-md overflow-hidden cursor-pointer"
